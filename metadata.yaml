@@ -1,0 +1,23 @@
+_repo: Poems_51536
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, Jennie Earngey
+    gutenberg_agent_id: '46455'
+    url: http://www.gutenberg.org/2009/agents/46455
+description: ''
+gutenberg_issued: '2016-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51536'
+  lccn: '19000303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Poems
+url: http://www.gutenberg.org/ebooks/51536
